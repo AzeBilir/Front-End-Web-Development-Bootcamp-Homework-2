@@ -1,7 +1,4 @@
-# Front-End-Web-Development-Bootcamp-Homework-2
-
-
-## Filtreleme Ödevi:
+## Filtreleme:
 
     * Reşit olan kullanıcıları listeler
 
